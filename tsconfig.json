@@ -1,0 +1,8 @@
+{
+  "files": [
+    "typings/main.d.ts",
+    "index.d.ts",
+    "register.d.ts",
+    "implementation.d.ts"
+  ]
+}
